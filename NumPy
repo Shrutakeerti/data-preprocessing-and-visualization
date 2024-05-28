@@ -1,0 +1,8 @@
+numpy is a powerful, open-source library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, and a large collection of high-level mathematical functions to operate on these arrays. Some basic numpy commands include:
+
+np.array(): creating a numpy array from a python list
+np.arange(): generating a numpy array of evenly spaced values within a specified range
+np.zeros(): creating a numpy array of all zeros
+np.ones(): creating a numpy array of all ones
+np.linspace(): generating a numpy array of evenly spaced values within a specified interval
+np.reshape(): reshaping a numpy array into a different
