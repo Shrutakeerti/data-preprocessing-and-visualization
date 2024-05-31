@@ -1,0 +1,20 @@
+A line plot, also known as a line chart,
+displays data as a series of data points connected by straight lines. 
+Line plots display trends,
+such as stock market fluctuations or temperature changes over time, 
+they compare datasets with a continuous independent variable like age or time.
+Line plots illustrate cause and effect relationships, such as sales revenue changes based on marketing budget. 
+They also visualize continuous data, like height measurements over time. 
+Line plots can be misleading if the scales on the axes are not carefully chosen to reflect the data accurately.
+
+A bar plot, also known as a bar chart,
+displays data using rectangular bars,
+where the height or length of the bars represents the magnitude of the data.
+The bars can be oriented either vertically or horizontally.
+A vertically oriented bar chart is often referred to as a vertical bar chart or a column chart.
+If you're looking for an effective way to compare data,
+bar plots are ideal for comparing different categories or groups. 
+They excel with discrete data, like comparing sales revenue by product.
+They show how different categories contribute to the whole and rankings, such as sales percentage or budget allocation.
+Bar plots can visualize data that you can easily rank,
+like displaying the bestselling books in the market. Their simplicity and interpretability, make them favored for data visualization.
