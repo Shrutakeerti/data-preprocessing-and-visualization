@@ -18,3 +18,34 @@ They excel with discrete data, like comparing sales revenue by product.
 They show how different categories contribute to the whole and rankings, such as sales percentage or budget allocation.
 Bar plots can visualize data that you can easily rank,
 like displaying the bestselling books in the market. Their simplicity and interpretability, make them favored for data visualization.
+
+ A scatter plot, is a type of plot that presents values for two variables for a set of data using Cartesian coordinates. 
+The data points are displayed as a collection of points,
+where one variable's value determines the position on the horizontal axis and the other variable's value determines the position on the vertical axis
+Investigating patterns or trends in data, such as house prices versus size, 
+detecting outliers or unusual observations such as outliers in test scores or abnormal stock behavior. 
+Visualizing data with many observations to identify clusters or groups, and exploring complex data.
+Outliers significantly impact interpretation, requiring consideration of their inclusion or exclusion.
+On the screen, the data is plotted with and without outliers. With outliers, it shows two clusters,
+but removing outliers makes the remaining data more visible. Proper outlier handling, enhances accuracy and meaningful insights in scatter plots.
+
+
+A box plot, also known as a box and whisker plot, is a type of plot that displays the distribution of a data set, along with key statistical measures. 
+It consists of a box, representing the interquartile range, IQR, 
+a line inside the box representing the median and lines whiskers extending from the box to indicate the range of the data, excluding outliers.
+Outliers may be represented as individual data points beyond the whiskers. Let's look at some scenarios where box plots come in handy. 
+While comparing the distribution of a continuous variable across different categories or groups.skewness of data set, visualizing quartiles and outliers, identifying and analyzing potential outliers within a data set. Visualizing summary statistics, median, quartiles, range in a concise and informative manner, comparing distributions of multiple variables in datasets side by side. Remember, box plots provide valuable information about outliers, such as their presence and extent. Ignoring or mishandling outliers,
+can distort the interpretation of the data and mask important insights
+
+
+A histogram, is a graphical representation of the distribution of a data set, 
+showing the frequency or relative frequency of values within specific intervals.
+It consists of bars, where the height represents the data count in each interval. 
+Histograms offer valuable insights into data distribution, outliers, skewness and variability.
+They visually depict the shape of the data, whether it's symmetric skewed or bimodal. 
+Skewness can be assessed by examining the histogram's shape. 
+Histograms also showcase data variability, allowing you to observe concentrations, gaps and clusters that reveal patterns or subgroups.
+
+
+
+Apart from issues with scale and inadequate labeling, be careful while choosing the bins to create a histogram.
